@@ -10,6 +10,15 @@ train/
 ├── image_002_mask.png
 ...
 
+# New Dataset
+The the model was tested on a new data (Washington) that was downloaded from the NAIP geoportal
+
+# Dataset Structure
+road/
+├── 000000000001.png
+├── 000000000002.png
+...
+
 Download the dataset used for training and evaluation here:
 👉 Download Dataset 'https://drive.google.com/drive/folders/1VVSxcHAKjSvZTrMRfUmXf7sMCunfcRQY?usp=sharing'
 
