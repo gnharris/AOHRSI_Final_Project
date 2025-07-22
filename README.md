@@ -24,7 +24,7 @@ road/
 ...
 
 Download the dataset used for training and evaluation here:
-👉 Download Dataset 'https://drive.google.com/drive/folders/1VVSxcHAKjSvZTrMRfUmXf7sMCunfcRQY?usp=sharing'
+👉 Download Dataset [here via Google Drive](https://drive.google.com/drive/folders/1VVSxcHAKjSvZTrMRfUmXf7sMCunfcRQY?usp=sharing)
 
 
 Each image has a corresponding binary mask highlighting road areas.
