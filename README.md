@@ -2,6 +2,10 @@
 This project implements a U-Net-based deep learning pipeline for binary semantic segmentation of satellite images USING DeepGlobe road dataset. It includes custom dataset handling, combined Dice + BCE loss for optimized performance, training with early stopping and checkpointing. 
 
 📁 Dataset
+
+The model was trained and validated on the [DeepGlobe Road Extraction Dataset](https://www.kaggle.com/datasets/balraj98/deepglobe-road-extraction-dataset/data) available on Kaggle.  
+Each image has a corresponding binary mask highlighting road areas.
+
 # Dataset Structure
 train/
 ├── image_001_sat.jpg
@@ -21,6 +25,7 @@ road/
 
 Download the dataset used for training and evaluation here:
 👉 Download Dataset 'https://drive.google.com/drive/folders/1VVSxcHAKjSvZTrMRfUmXf7sMCunfcRQY?usp=sharing'
+
 
 Each image has a corresponding binary mask highlighting road areas.
 
